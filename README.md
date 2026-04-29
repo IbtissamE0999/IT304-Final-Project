@@ -35,7 +35,7 @@ IT304-Final-Project/
 - **Status:** Fully written and complete
 - **Task:** Deploy to GitHub Pages, coordinate with team
 
-### 📝 Team Member 2 |
+### 📝 Team Member 2 | Nick Nguyen
 - **Section:** Political Deepfakes (`application1.html`)
 - **Tasks:**
   - Research 2 political deepfake case studies
@@ -44,7 +44,7 @@ IT304-Final-Project/
   - Add 3-5 references
 - **Follow the orange instruction boxes in the file**
 
-### 📝 Team Member 3 |
+### 📝 Team Member 3 | Ibtissame
 - **Section:** Media Applications & Fraud (`application2.html`)
 - **Tasks:**
   - Research entertainment uses AND fraud cases
@@ -53,7 +53,7 @@ IT304-Final-Project/
   - Add 3-5 references
 - **Follow the orange instruction boxes in the file**
 
-### 📝 Team Member 4 |
+### 📝 Team Member 4 | Humaira
 - **Section:** Ethical Analysis (`ethics.html`)
 - **Tasks:**
   - Choose 2 ethical frameworks (recommended: Consequentialism + Rights-Based)
@@ -63,7 +63,7 @@ IT304-Final-Project/
   - Add 3-5 references
 - **Follow the orange instruction boxes in the file**
 
-### 📝 Team Member 5 |
+### 📝 Team Member 5 | Majd Agha
 - **Section:** Social Implications & Recommendations (`recommendations.html`)
 - **Tasks:**
   - Identify stakeholders
